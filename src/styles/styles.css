@@ -1,0 +1,29 @@
+:root{
+    --primary-color: #FF7F50;
+    --primary-color-hover: #f06022;
+    --primary-color-active: #d45d3c;
+    --bg-color: #e6dbcd;
+    --text-color: #4B3F35;
+    --secondary-color: #A3B18A;
+    --shadow-color: #c9ba9f;
+    --text-secondaire: #b57b40;
+    --black:#000000;
+    --white:#FFFFFF;
+    --color-link:#E76F51;
+    --color-link-hover:#C1440E;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: var(--bg-color);
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    min-height: 100vh;
+}
