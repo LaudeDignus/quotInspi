@@ -7,8 +7,9 @@
     justify-content: center;
     padding:21px;
     min-height: 60vh;
-    min-width: 800px;
+    min-width: 70vw;
     border:2px solid var(--black);
+    margin: 0 10px;
 }
 
 .quote-section{
