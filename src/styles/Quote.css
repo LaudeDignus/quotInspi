@@ -37,7 +37,7 @@
     text-align: center;
 }
 
-.btn-quote{
+.btn{
     background-color: var(--primary-color);
     color: var(--white);
     font-size: medium;
@@ -50,9 +50,9 @@
     border: 2px solid var(--black);
 }
 
-.btn-quote:hover{
+.btn:hover{
     background-color: var(--primary-color-hover);
 }
-.btn-quote:active{
+.btn:active{
     background-color: var(--primary-color-active);
 }
