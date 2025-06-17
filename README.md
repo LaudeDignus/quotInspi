@@ -38,14 +38,12 @@ This version of **quotInspi** represents the Minimum Viable Product (MVP): a sim
 ---
 
 ## 🔗 Live Demo
-Try it here: [quotInspi](https://tonlien.vercel.app)
+Try it here: [quotInspi](https://quotinspi.netlify.app)
 
 <h2>🎥 Demo Preview</h2>
-
-<video width="100%" height="auto" controls>
-  <source src="./public/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<p align="center">
+  <img src="./public/Demo.gif" alt="Demo quotInspi" width="80%" />
+</p>
 
 ---
 
