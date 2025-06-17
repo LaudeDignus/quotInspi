@@ -3,7 +3,9 @@
 <p align="center">
   <img src="./public/banner.png" alt="Banner QuotInspi"  height="360px">
 </p>
+
 ---
+
 ## What is quotInspi?
 
 What is QuotInspi?
@@ -13,7 +15,9 @@ QuotInspi is a simple and attractive web application that provides users with in
 The project aims to merge inspiration and accessibility. Not only does the app display random quotes, but it also uses the browser's built-in text-to-speech capabilities to read them aloud, making the experience more dynamic and inclusive.
 
 The project also serves as an educational foundation, demonstrating how to build a responsive application, manage random data, and integrate web APIs, such as text-to-speech, while remaining open source and open to collaboration.
+
 ---
+
 ## 🚀 Features (MVP)
 
 This version of **quotInspi** represents the Minimum Viable Product (MVP): a simple and functional base that delivers the core experience with clean implementation and a focus on usability.
@@ -30,7 +34,9 @@ This version of **quotInspi** represents the Minimum Viable Product (MVP): a sim
 - **Vite** – Ultra-fast development environment
 - **Vanilla CSS** – Custom styling without frameworks
 - **Web Speech API** – For TTS functionality in the browser
+
 ---
+
 ## 🔗 Live Demo
 Try it here: [quotInspi Live](https://tonlien.vercel.app)
 
@@ -40,7 +46,9 @@ Try it here: [quotInspi Live](https://tonlien.vercel.app)
   <source src="./public/Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 ---
+
 ## 🛠️ Installation
 
 Follow these steps to run the project locally on your machine.
@@ -64,6 +72,7 @@ npm run dev
 ```
 
 ---
+
 ## 📦 Prerequisites & Dependencies
 
 Before running the project, make sure your environment meets the following requirements:
@@ -81,6 +90,7 @@ node -v
 npm -v
 ```
 ---
+
 ## 🛣️ Roadmap
 
 This is a progressive roadmap for improving quotInspi beyond the MVP. Features are grouped by priority/stage.
@@ -115,6 +125,7 @@ This is a progressive roadmap for improving quotInspi beyond the MVP. Features a
 - 🔲 Use text classification to suggest related quotes
 
 > Priorities may shift based on user feedback and contributions. Feel free to suggest new ideas by opening an issue or discussion!
+
 ---
 
 ## 🤝 Contributing
@@ -131,11 +142,14 @@ To contribute:
 5. Open a Pull Request
 
 ---
+
 ## 👤 Author
 
 Made with ❤️ by [@LaudeDignus](https://github.com/LaudeDignus)  
 Contact: [LinkedIn](https://www.linkedin.com/in/mouhamed-wade-97a967345/))
+
 ---
+
 ## 🙏 Special Thanks
 
 **CodeDex** – for the inspiration, learning resources, and community that helped bring this project to life  
