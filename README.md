@@ -38,7 +38,7 @@ This version of **quotInspi** represents the Minimum Viable Product (MVP): a sim
 ---
 
 ## 🔗 Live Demo
-Try it here: [quotInspi Live](https://tonlien.vercel.app)
+Try it here: [quotInspi](https://tonlien.vercel.app)
 
 <h2>🎥 Demo Preview</h2>
 
@@ -46,6 +46,25 @@ Try it here: [quotInspi Live](https://tonlien.vercel.app)
   <source src="./public/Demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+---
+
+## 📦 Prerequisites & Dependencies
+
+Before running the project, make sure your environment meets the following requirements:
+
+### 🔧 Prerequisites
+
+- **Node.js** – version 16 or higher  
+  [Download Node.js](https://nodejs.org/)
+- **npm** – comes with Node.js
+
+To check if they are installed, run:
+
+```bash
+node -v
+npm -v
+```
 
 ---
 
@@ -71,24 +90,6 @@ npm install
 npm run dev
 ```
 
----
-
-## 📦 Prerequisites & Dependencies
-
-Before running the project, make sure your environment meets the following requirements:
-
-### 🔧 Prerequisites
-
-- **Node.js** – version 16 or higher  
-  [Download Node.js](https://nodejs.org/)
-- **npm** – comes with Node.js
-
-To check if they are installed, run:
-
-```bash
-node -v
-npm -v
-```
 ---
 
 ## 🛣️ Roadmap
